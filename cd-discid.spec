@@ -7,6 +7,7 @@ Release:	1
 License:	GPL
 Group:		Applications
 Source0:	http://lly.org/~rcw/cd-discid/cd-discid_%{version}.orig.tar.gz
+# Source0-md5:	90278a3c6e267da2df6b9ab8b0fefce8
 URL:		http://lly.org/~rcw/cd-discid/page
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
