@@ -14,7 +14,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Cd-discid is a backend utility to get CDDB discid information from a CD-ROM
 disc.
 
-%description
+%description -l pl
 Cd-discid jest programem do pobierania identyfikatora CDDB kompaktu.
 
 %prep
