@@ -1,4 +1,3 @@
-
 Summary:	Backend utility to get CDDB discid information from a CD-ROM
 Summary(pl):	Narzêdzie do pobierania identyfikatora CDDB kompaktu
 Name:		cd-discid
@@ -22,7 +21,7 @@ Cd-discid jest programem do pobierania identyfikatora CDDB kompaktu.
 %setup -q
 
 %build
-gcc %{rpmcflags} -o cd-discid cd-discid.c
+%{__cc} %{rpmcflags} -o cd-discid cd-discid.c
 
 %install
 rm -rf $RPM_BUILD_ROOT
