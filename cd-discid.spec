@@ -2,7 +2,7 @@
 Summary:	Backend utility to get CDDB discid information from a CD-ROM
 Summary(pl):	Narzêdzie do pobierania identyfikatora CDDB kompaktu
 Name:		cd-discid
-Version:	0.7
+Version:	0.8
 Release:	1
 License:	GPL
 Group:		Applications
