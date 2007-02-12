@@ -1,5 +1,5 @@
 Summary:	Backend utility to get CDDB discid information from a CD-ROM
-Summary(pl.UTF-8):   Narzędzie do pobierania identyfikatora CDDB kompaktu
+Summary(pl.UTF-8):	Narzędzie do pobierania identyfikatora CDDB kompaktu
 Name:		cd-discid
 Version:	0.9
 Release:	1
